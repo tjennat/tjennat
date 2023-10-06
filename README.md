@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
 <!--
 **tjennat/tjennat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
